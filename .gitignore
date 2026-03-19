@@ -1,0 +1,9 @@
+build/
+.xmake/
+.xmake-global/
+.vs/
+tests/
+ghidra output/
+*.user
+*.sln
+*.vcxproj*
