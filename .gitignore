@@ -1,4 +1,11 @@
-build/
+build/*
+!build/windows/
+build/windows/*
+!build/windows/x64/
+build/windows/x64/*
+!build/windows/x64/release/
+build/windows/x64/release/*
+!build/windows/x64/release/AlchemyRecipeViewVR.dll
 .xmake/
 .xmake-global/
 .vs/
